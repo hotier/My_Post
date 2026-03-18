@@ -107,7 +107,9 @@ return True
         <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/chat-response.png" width="280" alt="ClawApp Chat">
         <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/login-page.png" width="280" alt="ClawApp Login">
       </details>
+      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUxMjcxNzEsLTIwMjg0NDExMDYsLT
-E5MjY3ODAwNDcsLTUwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
+eyJoaXN0b3J5IjpbMTQyNjA4OTAwMywtMTk2NTEyNzE3MSwtMj
+AyODQ0MTEwNiwtMTkyNjc4MDA0NywtNTAyMjY4MzQwLDE2ODE1
+MTc5MjJdfQ==
 -->
