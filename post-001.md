@@ -38,8 +38,10 @@
 ![test](https://imgbed.hotier.cc.cd/file/J1T4frBz.webp)
 
 **表格**
-|表头1| 表头2 | 表头3 |
-|----|-----|----|
+|表头1|表头2|表头3|
+|:-|:-|-:|
+|内容1|内容324324234232|内容3|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njc2MDIzOF19
+eyJoaXN0b3J5IjpbNDc0ODg1OTMyXX0=
 -->
