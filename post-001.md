@@ -1,4 +1,4 @@
-
+<!-- 这是一个目录 -->
 [toc]
 # 一级标题
 **加粗文本**
@@ -51,7 +51,10 @@
 这是一个脚注[^提示]
 [^提示]:点击上方脚注即可跳转至脚注内容
 
+**公式**
+行内公式：$E=mc^2$ 块级公式： $$ \int_0^\infty e^{-x}dx = 1 $$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTA0NjMzXX0=
+eyJoaXN0b3J5IjpbNzcxMzM2MjAxXX0=
 -->
