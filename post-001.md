@@ -44,8 +44,9 @@
 
 **分割线**
 ***
-~~~
 ---
+**脚注**
+这是一个脚注[^1]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDU3MDE4OF19
+eyJoaXN0b3J5IjpbMTUzMTY4MTEzNV19
 -->
