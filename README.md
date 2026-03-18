@@ -107,9 +107,10 @@ return True
         <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/chat-response.png" width="280" alt="ClawApp Chat">
         <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/login-page.png" width="280" alt="ClawApp Login">
       </details>
-      
+
+[Deploy on Zeab](https://zeabur.com/templates/8MPTQU/deploy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjA4OTAwMywtMTk2NTEyNzE3MSwtMj
-AyODQ0MTEwNiwtMTkyNjc4MDA0NywtNTAyMjY4MzQwLDE2ODE1
-MTc5MjJdfQ==
+eyJoaXN0b3J5IjpbLTI2MDY5Mzk5LC0xOTY1MTI3MTcxLC0yMD
+I4NDQxMTA2LC0xOTI2NzgwMDQ3LC01MDIyNjgzNDAsMTY4MTUx
+NzkyMl19
 -->
