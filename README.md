@@ -99,8 +99,8 @@ return True
   <a href="https://openclaw.qt.cool/"><img src="https://img.shields.io/badge/🔥_汉化官网-openclaw.qt.cool-dc2626?style=for-the-badge" alt="汉化官网"></a>
 </p>
 
-[![npm](https://img.shields.io/npm/v/@qingchencloud/openclaw-zh?label=nvm)](https://www.npmjs.com/package/@qingchencloud/openclaw-zh)
+[![nvm](https://img.shields.io/npm/v/@qingchencloud/openclaw-zh?label=nvm)](https://www.npmjs.com/package/@qingchencloud/openclaw-zh)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE4MDIwMDgsLTIwMjg0NDExMDYsLT
-E5MjY3ODAwNDcsLTUwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
+eyJoaXN0b3J5IjpbLTIxNjMzNjk5MCwtMjAyODQ0MTEwNiwtMT
+kyNjc4MDA0NywtNTAyMjY4MzQwLDE2ODE1MTc5MjJdfQ==
 -->
