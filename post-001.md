@@ -1,4 +1,7 @@
-welcome to my channel
+# 一级标题
+**加粗文本**
+*斜体*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODQ3NjAyXX0=
+eyJoaXN0b3J5IjpbODgzMjc0NzQ4XX0=
 -->
