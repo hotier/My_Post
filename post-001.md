@@ -58,8 +58,9 @@
 **居中显示**
 <center>这段文字会居中显示</center>
 
-<p align ="center">这是居中的段落
+***
+<p align ="center">这是居中的段落<br>换行也会居中</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY4Mzc4NzVdfQ==
+eyJoaXN0b3J5IjpbMTUxMzUzMjE4NV19
 -->
