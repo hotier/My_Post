@@ -37,7 +37,9 @@
 **图片**
 ![test](https://imgbed.hotier.cc.cd/file/J1T4frBz.webp)
 
-*
+**表格**
+|表头1| 表头2 | 表头3 |
+|----|-----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Nzg2MDg0OV19
+eyJoaXN0b3J5IjpbLTQ2Njc2MDIzOF19
 -->
