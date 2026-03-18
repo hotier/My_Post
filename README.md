@@ -67,16 +67,18 @@
 <button onclick="alert('Hello Markdown')">点击测试</button>
 
 <table border="1" cellpadding="5"> 
-<tr> 
-<td rowspan="2">合并行</td> 
-<td>列1</td> 
-<td>列2</td> 
-</tr>
-<tr>
-  <td colspan="2">合并列</td>
- </tr>
+	<tr> 
+		<td rowspan="2">合并行</td> 
+		<td>列1</td> 
+		<td>列2</td> 
+	</tr>
+	<tr>
+		<td colspan="2">合并列</td>
+	 </tr>
 </table>
+
+<style> /* 自定义标题样式 */ h2 { color: #2E86AB; border-bottom: 2px solid #A23B72; } /* 自定义列表样式 */ ul li { list-style-type: square; color: #F18F01; } </style>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg5MTA0OCwtNTAyMjY4MzQwLDE2OD
+eyJoaXN0b3J5IjpbLTc0Nzk3MTQ2NCwtNTAyMjY4MzQwLDE2OD
 E1MTc5MjJdfQ==
 -->
