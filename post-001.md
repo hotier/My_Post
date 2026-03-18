@@ -56,8 +56,10 @@
 
 ## 进阶用法
 **居中显示**
-<center>这段文字hui
+<center>这段文字会居中显示</center>
+
+<p align ="center">这是居中的段落
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNjM1NDYwXX0=
+eyJoaXN0b3J5IjpbLTExNTY4Mzc4NzVdfQ==
 -->
