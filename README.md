@@ -94,7 +94,11 @@ return True
 <!-- 跳转到「StackEdit 专属高级用法」 -->
  [跳转到一级标题](#一级标题)
 
+[![Platform](https://img.shields.io/badge/平台-Windows%20|%20macOS%20|%20Linux-blue)](https://github.com/1186258278/OpenClawChineseTranslation/releases) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+<p align="center">
+  <a href="https://openclaw.qt.cool/"><img src="https://img.shields.io/badge/🔥_汉化官网-openclaw.qt.cool-dc2626?style=for-the-badge" alt="汉化官网"></a>
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODg2NTExOSwtMTkyNjc4MDA0NywtNT
-AyMjY4MzQwLDE2ODE1MTc5MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwMjg0NDExMDYsLTE5MjY3ODAwNDcsLT
+UwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
 -->
