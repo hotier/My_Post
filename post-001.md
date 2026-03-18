@@ -54,7 +54,10 @@
 **公式**
 行内公式：$E=mc^2$ 块级公式： $$ \int_0^\infty e^{-x}dx = 1 $$
 
+## 进阶用法
+**居中显示**
+<center>这段文字hui
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMzM2MjAxXX0=
+eyJoaXN0b3J5IjpbOTQwNjM1NDYwXX0=
 -->
