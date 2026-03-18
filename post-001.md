@@ -1,3 +1,5 @@
+
+[toc]
 # 一级标题
 **加粗文本**
 *斜体*
@@ -46,9 +48,10 @@
 ***
 ---
 **脚注**
-这是一个脚注[^1]
+这是一个脚注[^提示]
+[^提示]:点击上方脚注即可跳转至脚注内容
 
-[^1]:点击上方脚注即可跳转至脚注内容
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODc0MDUwMV19
+eyJoaXN0b3J5IjpbMjYyOTA0NjMzXX0=
 -->
