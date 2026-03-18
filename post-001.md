@@ -19,8 +19,11 @@
 3. 项目3
 ```
 ```markdown
-**任务列表
+**任务列表**
+- [x]任务1
+- [x] 这里是列表文本
+- [x]任务2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAzOTEwNl19
+eyJoaXN0b3J5IjpbNTcwMzE4MzA4XX0=
 -->
