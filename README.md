@@ -78,7 +78,10 @@
 </table>
 
 <style> /* 自定义标题样式 */ h2 { color: #2E86AB; border-bottom: 2px solid #A23B72; } /* 自定义列表样式 */ ul li { list-style-type: square; color: #F18F01; } </style>
+
+<!-- StackEdit 专属折叠 --> <stackedit-fold open="false"> <h4>点击展开代码</h4> 
+```python def advanced_func(): print("StackEdit 折叠代码") return True
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzk3MTQ2NCwtNTAyMjY4MzQwLDE2OD
+eyJoaXN0b3J5IjpbLTM0NTEzNzE1NSwtNTAyMjY4MzQwLDE2OD
 E1MTc5MjJdfQ==
 -->
