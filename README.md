@@ -108,9 +108,9 @@ return True
         <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/login-page.png" width="280" alt="ClawApp Login">
       </details>
 
-[Deploy on Zeab](https://zeabur.com/templates/8MPTQU/deploy)
+[![Deploy on Zeab](https://zeabur.com/button.svg)](https://zeabur.com/templates/8MPTQU/deploy)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDY5Mzk5LC0xOTY1MTI3MTcxLC0yMD
-I4NDQxMTA2LC0xOTI2NzgwMDQ3LC01MDIyNjgzNDAsMTY4MTUx
-NzkyMl19
+eyJoaXN0b3J5IjpbLTc0NDkwOTI2OSwtMTk2NTEyNzE3MSwtMj
+AyODQ0MTEwNiwtMTkyNjc4MDA0NywtNTAyMjY4MzQwLDE2ODE1
+MTc5MjJdfQ==
 -->
