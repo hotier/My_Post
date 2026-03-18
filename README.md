@@ -55,6 +55,7 @@
 行内公式：$E=mc^2$ 块级公式： $$ \int_0^\infty e^{-x}dx = 1 $$
 
 ## 进阶用法
+ [跳转到高级用法](##)
 **居中显示**
 <center>这段文字会居中显示</center>
 
@@ -89,9 +90,10 @@ return True
 <summary>通用折叠（跨平台）</summary>
 折叠内容
 </details>
-
 ```
+<!-- 跳转到「StackEdit 专属高级用法」 -->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNDU4Njg4LC01MDIyNjgzNDAsMTY4MT
+eyJoaXN0b3J5IjpbNDk4NTI2OTcyLC01MDIyNjgzNDAsMTY4MT
 UxNzkyMl19
 -->
