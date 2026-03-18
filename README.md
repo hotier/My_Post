@@ -100,7 +100,14 @@ return True
 </p>
 
 [![nvm](https://img.shields.io/npm/v/@qingchencloud/openclaw-zh?label=nvm)](https://www.npmjs.com/package/@qingchencloud/openclaw-zh)
+
+   <details>
+        <summary>📸 预览截图（点击展开）</summary>
+        <br>
+        <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/chat-response.png" width="280" alt="ClawApp Chat">
+        <img src="https://raw.githubusercontent.com/qingchencloud/clawapp/main/docs/image/login-page.png" width="280" alt="ClawApp Login">
+      </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjMzNjk5MCwtMjAyODQ0MTEwNiwtMT
-kyNjc4MDA0NywtNTAyMjY4MzQwLDE2ODE1MTc5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjUxMjcxNzEsLTIwMjg0NDExMDYsLT
+E5MjY3ODAwNDcsLTUwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
 -->
