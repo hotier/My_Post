@@ -62,8 +62,7 @@
 <p align ="center">这是居中的段落<br>换行也会居中</p>
 
 
-基础：指定语言+行号（Typora/VS Code）
- ```python {.line-numbers} def func(): print("Hello") return True```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIyNzAxODFdfQ==
+eyJoaXN0b3J5IjpbOTI5NzQyNzA5XX0=
 -->
