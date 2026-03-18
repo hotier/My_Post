@@ -20,10 +20,10 @@
 ```
 ```markdown
 **任务列表**
-- [x]任务1
-- [x] 这里是列表文本
-- [x]任务2
+- [ ] 未完成
+- [x] 已完成
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMzE4MzA4XX0=
+eyJoaXN0b3J5IjpbMTQwOTMzNDkwMF19
 -->
