@@ -65,6 +65,18 @@
 <https://www.baidu.com><!--自动链接，无文字提示-->
 
 <button onclick="alert('Hello Markdown')">点击测试</button>
+
+<table border="1" cellpadding="5"> 
+<tr> 
+<td rowspan="2">合并行</td> 
+<td>列1</td> 
+<td>列2</td> 
+</tr>
+<tr>
+  <td colspan="2">合并列</td>
+ </tr>
+</table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
+eyJoaXN0b3J5IjpbLTg0Nzg5MTA0OCwtNTAyMjY4MzQwLDE2OD
+E1MTc5MjJdfQ==
 -->
