@@ -98,7 +98,8 @@ return True
 <p align="center">
   <a href="https://openclaw.qt.cool/"><img src="https://img.shields.io/badge/🔥_汉化官网-openclaw.qt.cool-dc2626?style=for-the-badge" alt="汉化官网"></a>
 </p>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg0NDExMDYsLTE5MjY3ODAwNDcsLT
-UwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
+eyJoaXN0b3J5IjpbLTE2NzgxMzIwNjgsLTIwMjg0NDExMDYsLT
+E5MjY3ODAwNDcsLTUwMjI2ODM0MCwxNjgxNTE3OTIyXX0=
 -->
